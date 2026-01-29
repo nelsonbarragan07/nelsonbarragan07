@@ -71,18 +71,4 @@ Plataforma de comercio electrónico desarrollada con **Laravel y MySQL**, enfoca
 
 ---
 
-📊 Estadísticas de GitHub
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nelsonbarragan&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    referrerpolicy="no-referrer"
-  />
-</div>
-
-
-
----
-
 ⭐ *“El aprendizaje constante es la base del crecimiento profesional.”*
