@@ -71,12 +71,16 @@ Plataforma de comercio electrónico desarrollada con **Laravel y MySQL**, enfoca
 
 ---
 
- 📊 Estadísticas de GitHub
+📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelsonbarragan&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonbarragan&theme=dracula&hide_border=false" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nelsonbarragan&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400"
+    height="150"
+    referrerpolicy="no-referrer"
+  />
 </div>
+
 
 
 ---
