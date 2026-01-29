@@ -74,20 +74,10 @@ Plataforma de comercio electrónico desarrollada con **Laravel y MySQL**, enfoca
  📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nelsonbarragan&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nelsonbarragan&theme=dracula&row=1&column=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nelsonbarragan&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonbarragan&theme=dracula&hide_border=false" height="150" />
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/nelsonbarragan/nelsonbarragan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/nelsonbarragan/nelsonbarragan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/nelsonbarragan/nelsonbarragan/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
